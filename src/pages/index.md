@@ -4,7 +4,7 @@ sections:
   - actions:
       - label: Learn More
         url: /features
-    content: ''
+    content: '# CONTINUOUS DELIVERY PLATFORM. ENTERPRISE READY'
     image: /images/nexastack-brand.png
     section_id: home
     title: NoOps Platform for BigData And Data Science
