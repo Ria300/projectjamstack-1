@@ -1,6 +1,6 @@
 {
   "title": "Stackbit Azimuth Theme",
-  "palette": "green",
+  "palette": "blue",
   "header": {
     "title": "NexaStack",
     "logo_img": "/images/index.png",
@@ -8,29 +8,29 @@
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Free Trial",
+          "url": "/free trial"
         }
       ]
     }
   },
   "footer": {
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_title": "",
+    "subscribe_content": "",
     "has_subscribe": true,
-    "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "social_title": "Contact Us",
+    "tagline": "",
     "logo_img": "/images/nexastack-brand.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "",
+        "url": "",
         "new_window": true
       }
     ],
-    "nav_title": "Company",
+    "nav_title": "Explore Us",
     "has_nav": true
   }
 }
