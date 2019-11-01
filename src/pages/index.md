@@ -14,35 +14,35 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: ''
-        image: images/feature1.png
+        content: |-
+          ## KEEPS YOUR DATA SAFE ON PREMISES.
+          EXECUTION RESIDES CLOSER TO THE DATA
+        image: ''
         title: Agent Based Architecture
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+        content: |-
+          ## Hundreds of Integerations.
+          Lets Your Focus On Data Flows.
+        image: ''
+        title: 'Data Flows ,Not Technologies'
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+        content: |-
+          ## Customize to your needs
+          Extend plug-ins what you want love
+        image: ''
+        title: Modular & Open Platform
     section_id: features
     subtitle: ''
     title: Features
     type: section_features
-  - bg: white
+  - bg: gray
     reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
+      - author: COMPATIBILITY
+        avatar: ''
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -58,10 +58,8 @@ sections:
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
     section_id: reviews
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    title: Testimonials
+    subtitle: ''
+    title: ''
     type: section_reviews
   - actions:
       - label: Get Started
