@@ -15,10 +15,10 @@
     }
   },
   "footer": {
-    "subscribe_title": "",
+    "subscribe_title": "Contact Us",
     "subscribe_content": "  9782901093",
     "has_subscribe": false,
-    "social_title": "Contact Us",
+    "social_title": "",
     "tagline": "NexaStack",
     "logo_img": "/images/index.png",
     "has_social": true,
