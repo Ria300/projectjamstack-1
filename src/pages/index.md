@@ -9,17 +9,14 @@ sections:
     section_id: home
     title: NoOps Platform for BigData And Data Science
     type: section_hero
-  - bg: gray
+  - bg: white
     featureslist:
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: ''
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Agent Based Architecture
       - actions:
           - label: Learn More
             url: /features
@@ -39,9 +36,7 @@ sections:
         image: images/feature3.png
         title: Cool Feature of Your Services
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     title: Features
     type: section_features
   - bg: white
