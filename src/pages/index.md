@@ -1,5 +1,5 @@
 ---
-title: NexaStack
+title: Home
 sections:
   - actions:
       - label: Learn More
