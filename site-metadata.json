@@ -3,7 +3,7 @@
   "palette": "purple",
   "header": {
     "title": "NexaStack",
-    "logo_img": "/images/index.png",
+    "logo_img": "/images/nexastack-brand.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Contact Us",
     "tagline": "NexaStack",
-    "logo_img": "/images/nexastack-brand.png",
+    "logo_img": "/images/index.png",
     "has_social": true,
     "content": "Copyright 2016 XenonStack",
     "links": [
