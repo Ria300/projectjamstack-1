@@ -4,12 +4,10 @@ sections:
   - actions:
       - label: Learn More
         url: /features
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    section_id: hero
-    title: This Is A Big Hero Headline
+    content: ''
+    image: /images/nexastack-brand.png
+    section_id: home
+    title: NoOps Platform for BigData And Data Science
     type: section_hero
   - bg: gray
     featureslist:
