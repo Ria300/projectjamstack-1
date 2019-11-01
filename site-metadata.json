@@ -3,7 +3,7 @@
   "palette": "purple",
   "header": {
     "title": "NexaStack",
-    "logo_img": "/images/jamstack-1-1.jpg",
+    "logo_img": "/images/index.png",
     "has_nav": true,
     "menu": {
       "actions": [
