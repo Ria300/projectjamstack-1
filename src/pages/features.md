@@ -15,13 +15,6 @@ sections:
     section_id: Agent Based Architecture
     title: ''
     type: section_content
-  - actions:
-      - label: Get Started
-        url: '#'
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call to Action Block!
-    type: section_cta
   - bg: gray
     content: |-
       Hundreds of Integerations.
@@ -32,6 +25,7 @@ sections:
   - bg: gray
     content: |-
       Customize to your needs
+
       Extend plug-ins what you want love
     title: Modular & Open Platform
     type: section_content
