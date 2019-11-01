@@ -15,9 +15,9 @@
     }
   },
   "footer": {
-    "subscribe_title": "business@xenonstack",
-    "subscribe_content": "9782901093",
-    "has_subscribe": true,
+    "subscribe_title": "",
+    "subscribe_content": "  9782901093",
+    "has_subscribe": false,
     "social_title": "Contact Us",
     "tagline": "NexaStack",
     "logo_img": "/images/index.png",
