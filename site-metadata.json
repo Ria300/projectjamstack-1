@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/nexastack-brand.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
